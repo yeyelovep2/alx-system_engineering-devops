@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 ls /tmp/betty/tmp/my_first_directory/betty
-=======
-mv /tmp/betty/tmp/my_first_directory/betty
->>>>>>> 901cd81a77f2b3ede3231554d6da5e26fe3cd36a
